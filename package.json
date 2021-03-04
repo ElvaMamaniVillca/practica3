@@ -1,0 +1,19 @@
+{
+  "name": "p3",
+  "version": "1.0.0",
+  "description": "p33333",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElvaMamaniVillca/practica3.git"
+  },
+  "author": "elva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElvaMamaniVillca/practica3/issues"
+  },
+  "homepage": "https://github.com/ElvaMamaniVillca/practica3#readme"
+}
